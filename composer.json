@@ -1,0 +1,12 @@
+{
+  "name": "copperturn-drupal/colorbutton",
+  "description": "CKEditor colorbutton plugin",
+  "type": "drupal-library",
+  "authors": [
+    {
+      "name": "Ryan Wright",
+      "email": "ryanwrightdev@gmail.com"
+    }
+  ],
+  "require": {}
+}
